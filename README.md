@@ -1,6 +1,6 @@
 👋 Hi, I’m Angelina Gesch
-I'm a software developer in training based in Berlin.
-I already worked with Java, C#, Javascript, Html, CSS, NodeJS, Bootstrap, Python.
+<br>I'm a software developer in training based in Berlin.
+<br>I already worked with Java, C#, Javascript, Html, CSS, NodeJS, Bootstrap, Python.
 
 
 <!---
